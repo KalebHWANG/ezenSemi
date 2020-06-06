@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
-<style>
+<style> 
 body{background-color: #FFEB60;}
 #login_status{text-align: right;}
 nav{text-align: center;}
